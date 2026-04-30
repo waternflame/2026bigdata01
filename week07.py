@@ -19,7 +19,7 @@ print(array02)
 #array04 = np.random.rand() #0에서 1사이의 실수값이 하나 나옴
 #array04 = np.random.rand(2, 3)
 #print(array04)
-#print(array04.transpose()) #transpose는 .T와 같음
+#print(array04.transpose()) #transpose()는 .T와 같음
 
 l2 = list()
 
